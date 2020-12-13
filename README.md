@@ -8,5 +8,4 @@ This repository is primarily aimed to use Deep Learning to recognize the alphabe
 
 # Dataset
 
-Courtesy of: https://github.com/hse-sl/rsl-alphabet-dataset
-19 images/ alphabet 
+Courtesy of: https://github.com/hse-sl/rsl-alphabet-dataset (19 images/ alphabet)
