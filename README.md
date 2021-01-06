@@ -8,4 +8,10 @@ This repository is primarily aimed to use Deep Learning to recognize the alphabe
 
 # Dataset
 
-Courtesy of: https://github.com/hse-sl/rsl-alphabet-dataset (19 images/ alphabet)
+Courtesy of: https://github.com/hse-sl/rsl-alphabet-dataset (20 images/ alphabet)
+
+# Results with Transfer Learning
+### resnet34 - epochs = 15 - max_lr = 0.01 - val_acc: 0.6719
+### resnet34 - epochs = 15 - max_lr = 0.001 - val_acc: 0.8281
+### resnet50 - epochs = 15 - max_lr = 0.0025 - val_acc: 0.7203¶
+### resnet50 - epochs = 30 - max_lr = 0.001 - val_acc: 0.8594
