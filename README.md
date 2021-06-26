@@ -15,3 +15,6 @@ Courtesy of: https://github.com/hse-sl/rsl-alphabet-dataset (20 images/ alphabet
 ### resnet34 - epochs = 15 - max_lr = 0.001 - val_acc: 0.8281
 ### resnet50 - epochs = 15 - max_lr = 0.0025 - val_acc: 0.7203¶
 ### resnet50 - epochs = 30 - max_lr = 0.001 - val_acc: 0.8594
+
+# Next Step: 
+### 1. Employ Few Shot Learning
